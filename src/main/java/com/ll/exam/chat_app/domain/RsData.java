@@ -1,4 +1,4 @@
-package com.ll.exam.chat_app;
+package com.ll.exam.chat_app.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
